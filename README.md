@@ -1,4 +1,4 @@
-# Virtual_Rooting
+# Termux_Virtual_Root_access
 # Installation step
 1. Update termux:
 
