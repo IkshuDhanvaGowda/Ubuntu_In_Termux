@@ -11,8 +11,8 @@
 7. Go to HOME folder:
          `cd ~`
 8. Download script:
-         `git clone https://github.com/IkshuDhanva20/Virtual_Rooting`
-9. Go to script folder:
+  `git clone https://github.com/IkshuDhanva20/Virtual_Rooting`
+10. Go to script folder:
        `cd ubuntu-in-termux`
-10. Give execution permission:
+11. Give execution permission:
          `chmod +x ubuntu.sh`
