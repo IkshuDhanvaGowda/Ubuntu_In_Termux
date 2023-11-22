@@ -1,6 +1,5 @@
 # Virtual_Rooting
-# Installation steps
-
+# Installation step
 1. Update termux: apt-get update && apt-get upgrade -y
 2. Install wget: apt-get install wget -y
 3. Install proot: apt-get install proot -y
