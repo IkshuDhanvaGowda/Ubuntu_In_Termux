@@ -18,6 +18,7 @@
 9. Download script:
 
 `git clone https://github.com/IkshuDhanva20/Virtual_Rooting`
+
 10. Go to script folder:
 
     `cd ubuntu-in-termux`
