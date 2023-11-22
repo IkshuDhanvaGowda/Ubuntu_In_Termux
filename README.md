@@ -6,5 +6,5 @@
 3. Install proot: `apt-get install proot -y`
 4. Install git: `apt-get install git -y`
 5. Go to HOME folder: `cd ~`
-6. Download script: `git clone https://github.com/IkshuDhanva20/Virtual_Rooting/tree/main
+6. Download script: `git clone https://github.com/IkshuDhanva20/Virtual_Rooting.git
 7. Go to script folder: `cd ubuntu-in-termux`
