@@ -15,4 +15,5 @@
 10. Go to script folder:
        `cd ubuntu-in-termux`
 11. Give execution permission:
-         `chmod +x ubuntu.sh`
+
+    `chmod +x ubuntu.sh`
