@@ -2,25 +2,35 @@
 1. Update termux:
 
    `apt-get update && apt-get upgrade -y`
-3. Install wget:
+2. Install wget:
 
    `apt-get install wget -y`
-5. Install proot:
+3. Install proot:
 
    `apt-get install proot -y`
-6. Install git:
+4. Install git:
 
    `apt-get install git -y`
-7. Go to HOME folder:
+5. Go to HOME folder:
 
    `cd ~`
-9. Download script:
+6. Download script:
 
-`git clone https://github.com/IkshuDhanva20/Termux_Virtual_Rooting`
+   `git clone https://github.com/IkshuDhanva20/Termux_Virtual_Rooting`
 
-10. Go to script folder:
+ 7. Go to script folder:
 
-    `cd ubuntu-in-termux`
-12. Give execution permission:
+      `cd Termux_Virtual_Rooting`
+   
+ 8. Give execution permission:
 
-    `chmod +x ubuntu.sh`
+      `chmod +x rooter`
+ 
+ 9. Run the script:
+
+       `./rooter -y`
+
+ 10. For starting ubuntu: 
+  
+     `./startrooter`
+
