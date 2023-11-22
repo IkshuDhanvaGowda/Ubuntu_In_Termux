@@ -7,6 +7,6 @@
 4. Install git: apt-get install git -y
 5. Go to HOME folder: cd ~
 6. Download script: git clone https://github.com/IkshuDhanva20/Virtual_Rooting
-7. change module:chmod +x main
-8. start virtual root:./main
+7. change module: chmod +x main
+8. start virtual root: ./main
 9. Go to script folder: cd ubuntu-in-termux
