@@ -1,4 +1,3 @@
-# Termux_Virtual_Root_access
 # Installation step
 1. Update termux:
 
@@ -17,7 +16,7 @@
    `cd ~`
 9. Download script:
 
-`git clone https://github.com/IkshuDhanva20/Virtual_Rooting`
+`git clone https://github.com/IkshuDhanva20/Termux_Virtual_Rooting`
 
 10. Go to script folder:
 
