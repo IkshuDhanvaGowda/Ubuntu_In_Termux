@@ -14,11 +14,11 @@
    
 5. Download script:
 
-   `git clone https://github.com/IkshuDhanva20/Termux_Virtual_Rooting`
+`gitclone https://github.com/IkshuDhanva20/Ubuntu_In_Termux/blob/main/README.md)`
 
  6. Go to script folder:
 
-      `cd Termux_Virtual_Rooting`
+      `cd Ubuntu_In_Termux`
    
  7. Give execution permission:
 
