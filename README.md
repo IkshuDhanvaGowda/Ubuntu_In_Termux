@@ -22,13 +22,13 @@
    
  7. Give execution permission:
 
-      `chmod +x rooter`
+      `chmod +x ubuntu`
  
  8. Run the script:
 
-       `./rooter -y`
+       `./ubuntu -y`
 
  9. For starting ubuntu: 
   
-     `./startrooter`
+     `./startubuntu`
 
