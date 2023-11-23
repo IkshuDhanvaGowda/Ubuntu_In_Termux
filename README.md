@@ -11,26 +11,24 @@
 4. Install git:
 
    `apt-get install git -y`
-5. Go to HOME folder:
-
-   `cd ~`
-6. Download script:
+   
+5. Download script:
 
    `git clone https://github.com/IkshuDhanva20/Termux_Virtual_Rooting`
 
- 7. Go to script folder:
+ 6. Go to script folder:
 
       `cd Termux_Virtual_Rooting`
    
- 8. Give execution permission:
+ 7. Give execution permission:
 
       `chmod +x rooter`
  
- 9. Run the script:
+ 8. Run the script:
 
        `./rooter -y`
 
- 10. For starting ubuntu: 
+ 9. For starting ubuntu: 
   
      `./startrooter`
 
