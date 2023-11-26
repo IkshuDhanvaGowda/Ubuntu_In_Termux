@@ -14,7 +14,7 @@
    
 5. Download script:
 
-`git clone https://github.com/IkshuDhanva20/Ubuntu_In_Termux`
+`git clone https://github.com/IkshuDhanvaGowda/Ubuntu_In_Termux`
 
  6. Go to script folder:
 
